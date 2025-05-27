@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+torch
+openai-whisper
+pydub
+Pillow
+requests
+language-tool-python
+scikit-learn
+transformers
+sentence-transformers
+textstat
